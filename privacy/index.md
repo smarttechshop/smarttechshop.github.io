@@ -3,7 +3,6 @@ PRIVACY NOTICE
 Last updated April 04, 2024
 
 
-
 This privacy notice for SMARTTECHSHOP ("we," "us," or "our"), describes how and why we might collect, store, use, and/or share ("process") your information when you use our services ("Services"), such as when you:
 Questions or concerns? Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services.
 
@@ -27,24 +26,6 @@ What are your rights? Depending on where you are located geographically, the app
 How do you exercise your rights? The easiest way to exercise your rights is by submitting a data subject access request, or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
 
 Want to learn more about what we do with any information we collect? Review the privacy notice in full.
-
-
-TABLE OF CONTENTS
-
-1. WHAT INFORMATION DO WE COLLECT?
-2. HOW DO WE PROCESS YOUR INFORMATION?
-3. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
-4. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?
-5. HOW DO WE HANDLE YOUR SOCIAL LOGINS?
-6. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?
-7. HOW LONG DO WE KEEP YOUR INFORMATION?
-8. DO WE COLLECT INFORMATION FROM MINORS?
-9. WHAT ARE YOUR PRIVACY RIGHTS?
-10. CONTROLS FOR DO-NOT-TRACK FEATURES
-11. DO WE MAKE UPDATES TO THIS NOTICE?
-12. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
-13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
-
 
 1. WHAT INFORMATION DO WE COLLECT?
 
@@ -150,7 +131,7 @@ We may update this privacy notice from time to time. The updated version will be
 
 If you have questions or comments about this notice, you may contact us by email at:
 
-smarttechshop7@gmail.com
+sla7bfb0k@mozmail.com
 
 13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
