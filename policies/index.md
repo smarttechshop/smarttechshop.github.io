@@ -4,7 +4,7 @@ Last updated April 08, 2024
 
 
 
-This Shipping & Delivery Policy is part of our Terms ("Terms") and should be therefore read alongside our main Terms: https://smarttechshop.github.io/terms.html.
+This Shipping & Delivery Policy is part of our Terms ("Terms") and should be therefore read alongside our main Terms: https://smarttechshop.github.io/terms/.
 
 Please carefully review our Shipping & Delivery Policy when purchasing our products. This policy will apply to any order you place with us.
 
@@ -30,7 +30,7 @@ If delivery is delayed, we will cancel the order and give a full refund.
 
 QUESTIONS ABOUT RETURNS?
 
-If you have questions about returns, please review our Return Policy: https://smarttechshop.github.io/policies.html.
+If you have questions about returns, please review our Return Policy: https://smarttechshop.github.io/policies/.
 
 HOW CAN YOU CONTACT US ABOUT THIS POLICY?
 
